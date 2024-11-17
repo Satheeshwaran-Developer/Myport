@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Myport/static/css/main.a9d2276d.css",
+    "main.js": "/Myport/static/js/main.6107510c.js",
+    "static/media/portfolio image.jpg": "/Myport/static/media/portfolio image.65eb2241212c08594dc5.jpg",
+    "static/media/matrimoney.png": "/Myport/static/media/matrimoney.aa9a37b5b58b176ef3a2.png",
+    "static/media/youtube.png": "/Myport/static/media/youtube.c98ca0e4b7d193f5ce96.png",
+    "static/media/netflix.png": "/Myport/static/media/netflix.2b4f357ac1962fcfa96c.png",
+    "static/media/skills.jpg": "/Myport/static/media/skills.bcfff87d8628896afc5f.jpg",
+    "static/media/Zomato.png": "/Myport/static/media/Zomato.4a9981e784ff8b42ce7a.png",
+    "static/media/home.png": "/Myport/static/media/home.0a2d86936f894d9afd68.png",
+    "static/media/bikerbazzar.png": "/Myport/static/media/bikerbazzar.3662dbfcbe2c3def8ecd.png",
+    "static/media/cake website.png": "/Myport/static/media/cake website.3f5d86527122e057e9f2.png",
+    "static/media/cal.png": "/Myport/static/media/cal.6d54bf6c65b214e5921e.png",
+    "static/media/oneplus.png": "/Myport/static/media/oneplus.080d3b2c47d3a7a06c4f.png",
+    "static/media/Resume Satheesh React JS.pdf": "/Myport/static/media/Resume Satheesh React JS.5b5927bfc1ab4e343e04.pdf",
+    "index.html": "/Myport/index.html",
+    "main.a9d2276d.css.map": "/Myport/static/css/main.a9d2276d.css.map",
+    "main.6107510c.js.map": "/Myport/static/js/main.6107510c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d2276d.css",
+    "static/js/main.6107510c.js"
+  ]
+}
